@@ -1,0 +1,8 @@
+{
+  "name": "Solaris AI Ecosystem",
+  "description": "A collaborative multi-agent AI workspace with conversational swarm consensus & automated analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

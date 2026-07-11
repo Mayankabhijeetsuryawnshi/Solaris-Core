@@ -1,0 +1,11 @@
+{
+  "appId": "com.solaris.aiecosystem",
+  "appName": "Solaris AI Ecosystem",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https",
+    "allowNavigation": [
+      "*"
+    ]
+  }
+}

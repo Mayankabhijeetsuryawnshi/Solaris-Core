@@ -1,0 +1,12 @@
+# Cloudflare Wrangler Configuration for Solaris AI Ecosystem
+# Ref: https://developers.cloudflare.com/pages/get-started/
+
+name = "soloris-ai"
+compatibility_date = "2024-03-01"
+# The folder containing the compiled static assets
+pages_build_output_dir = "dist"
+
+[vars]
+# Non-sensitive client environment parameters can be defined here
+VITE_APP_URL = "https://soloris-ai.pages.dev"
+
