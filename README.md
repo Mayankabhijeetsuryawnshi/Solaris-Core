@@ -1,7 +1,8 @@
 # Solaris
 
 <p align="center">
-  <img src="docs/assets/banner.svg" alt="Solaris Banner" width="100%">
+  <img width="1919" height="408" alt="image" src="https://github.com/user-attachments/assets/ba2ee478-be9a-4fde-bd86-870c25d3db63" />
+
 </p>
 
 <p align="center">
@@ -25,7 +26,7 @@
 
 ### 🌐 Live Demo
 
-**https://9b1ec6a8.soloris-ai.pages.dev/**
+**https://abd5bad7.solaris-core.pages.dev/**
 
 </p>
 
@@ -37,11 +38,13 @@ The screenshots below represent different parts of the workspace. Replace the pl
 
 | Landing                      | Workspace                      |
 | ---------------------------- | ------------------------------ |
-| ![](docs/images/landing.png) | ![](docs/images/workspace.png) |
+| <img width="640" height="360" alt="imag`e" src="https://github.com/user-attachments/assets/243da256-fa74-4bc9-9ed5-840451006867" />| <img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/442808d8-5dd8-469b-b390-d3bd6ad68136" />
+ |
 
 | AI Chat                   | Interactive Module          |
 | ------------------------- | --------------------------- |
-| ![](docs/images/chat.png) | ![](docs/images/module.png) |
+|<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/0f47fc17-474b-4cbc-b647-14a955167965" />| ![Uploading image.png…]()
+ |
 
 ---
 
@@ -126,43 +129,6 @@ The architecture of Solaris is guided by a few consistent principles.
 These ideas influence every major change made to the project.
 
 ---
-
-# Quick Start
-
-Clone the repository.
-
-```bash
-git clone https://github.com/Mayankabhijeetsuryawnshi/Solaris-Core.git
-```
-
-Move into the project directory.
-
-```bash
-cd Solaris-Core
-```
-
-Install the required dependencies.
-
-```bash
-npm install
-```
-
-Start the development server.
-
-```bash
-npm run dev
-```
-
-If you're running the backend separately:
-
-```bash
-npm run server
-```
-
-The application will then be available through your local development server.
-
----
-
 # Documentation
 
 The README focuses on understanding Solaris and getting it running.
@@ -507,7 +473,7 @@ I also appreciate the growing ecosystem of AI-assisted development tools. Used t
 
 🌐 **Live Demo**
 
-**https://9b1ec6a8.soloris-ai.pages.dev/**
+**https://abd5bad7.solaris-core.pages.dev/**
 
 If you'd like to see the latest version of Solaris in action, the live demo reflects the current state of development. As the project evolves, new features and improvements will continue to appear there before they become part of future releases.
 
