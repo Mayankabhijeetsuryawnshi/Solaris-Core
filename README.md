@@ -18,7 +18,7 @@
 ![Express](https://img.shields.io/badge/Express.js-Backend-000000?logo=express)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.x-38BDF8?logo=tailwindcss)
 ![Three.js](https://img.shields.io/badge/Three.js-WebGL-black?logo=threedotjs)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License]![MIT-WPU](https://shields.io)
 
 </p>
 
