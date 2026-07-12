@@ -42,7 +42,8 @@ The screenshots below represent different parts of the workspace. Replace the pl
 
 | AI Chat                   | Interactive Module          |
 | ------------------------- | --------------------------- |
-|<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/0f47fc17-474b-4cbc-b647-14a955167965" />| ![Uploading image.png…]()
+|<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/0f47fc17-474b-4cbc-b647-14a955167965" />|<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/ca31a971-dfb9-4e9c-9f0f-342d7d87bb73" />
+
  |
 
 ---
@@ -53,14 +54,7 @@ Short demonstrations communicate far more than paragraphs of explanation.
 
 | Launch                     | Navigation                    |
 | -------------------------- | ----------------------------- |
-| ![](docs/gifs/startup.gif) | ![](docs/gifs/navigation.gif) |
-
-| AI Conversation         | Interactive Experience     |
-| ----------------------- | -------------------------- |
-| ![](docs/gifs/chat.gif) | ![](docs/gifs/threejs.gif) |
-
----
-
+|<img width="479" height="269" alt="1st one" src="https://github.com/user-attachments/assets/c7a0f272-eff2-4eb8-8050-c01da56d5dcd" />| <img width="479" height="269" alt="2nd one" src="https://github.com/user-attachments/assets/bb7f5396-126d-430c-a792-a7bf2d380411" />
 # Table of Contents
 
 * [Overview](#overview)
