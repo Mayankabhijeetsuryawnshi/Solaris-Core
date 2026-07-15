@@ -25,7 +25,7 @@
 
 ### 🌐 Live Demo
 
-**https://343c8eb2.solaris-core.pages.dev/**
+**https://79a83435.manufacturing-hub.pages.dev/**
 
 </p>
 
