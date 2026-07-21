@@ -25,7 +25,7 @@
 
 ### 🌐 Live Demo
 
-**https://343c8eb2.solaris-core.pages.dev/**
+**https://819cfe84.solaris-core.pages.dev/**
 
 </p>
 
@@ -466,7 +466,7 @@ I also appreciate the growing ecosystem of AI-assisted development tools. Used t
 
 🌐 **Live Demo**
 
-**https://343c8eb2.solaris-core.pages.dev/**
+**https://819cfe84.solaris-core.pages.dev/**
 
 If you'd like to see the latest version of Solaris in action, the live demo reflects the current state of development. As the project evolves, new features and improvements will continue to appear there before they become part of future releases.
 
